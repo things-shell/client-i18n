@@ -1,0 +1,11 @@
+{
+  "zh-CN": {
+    "env-mention": "版{version} - {env}环境",
+    "keyword": "keyword",
+    "label.click-to-add-new-board": "Click to add new board",
+    "label.click-to-add-new-group": "Click to add new group",
+    "label.pls-name-group": "Please, give a name for the new group.",
+    "label.pls-name-board": "Please, give a name for the new board.",
+    "label.new-group": "New Group"
+  }
+}
