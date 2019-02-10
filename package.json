@@ -1,6 +1,6 @@
 {
   "name": "@things-shell/client-i18n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "src/index.js",
   "repository": "https://github.com/things-shell/client-i18n.git",
   "author": "Hearty Oh <heartyoh@hatiolab.com>",
