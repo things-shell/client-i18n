@@ -15,7 +15,7 @@ export default [
     output: [
       {
         file: 'dist/client-i18n.js',
-        name: 'auth',
+        name: 'client_i18n',
         format: 'umd',
         sourcemap: true
       }
