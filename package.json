@@ -1,6 +1,6 @@
 {
   "name": "@things-shell/client-i18n",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "main": "src/index.js",
   "module": "dist/client-i18n.mjs",
   "esnext:main": "dist/client-i18n.mjs",
