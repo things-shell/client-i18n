@@ -27,7 +27,7 @@ export default [
     plugins,
     output: [
       {
-        file: pkg.module,
+        file: 'dist/client-i18n.mjs',
         format: 'esm',
         sourcemap: true
       }
